@@ -1,3 +1,7 @@
+Name: Jayakumar.B
+reg.no: 212223040073
+
+
 # Ex.No:1a  			Study of Socket Programming
 
 ## Aim: 
